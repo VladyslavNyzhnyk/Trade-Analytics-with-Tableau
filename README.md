@@ -7,4 +7,5 @@ The client wanted to launch a new business unit, focusing on global trade and lo
 The client insisted the data to be cleaned using Excel or R. The Dataset contained missing values and was cleaned using the R programming language.  Tableau dashboards were created from the cleaned dataset.
 
 
-[![Demo]()](https://github.com/VladyslavNyzhnyk/Trade-Analytics-with-Tableau/blob/master/Global-Trade-Analytics.mp4)
+# Demo Video
+https://github.com/VladyslavNyzhnyk/Trade-Analytics-with-Tableau/blob/master/Global-Trade-Analytics.mp4
